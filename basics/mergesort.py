@@ -13,4 +13,4 @@ if __name__ == "__main__":
 
     unsorted_list = input_str.split(",")
 
-    debug_print(unsorted_list=unsorted_list)
+    debug_print(input_list=unsorted_list)
